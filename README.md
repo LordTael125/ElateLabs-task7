@@ -9,5 +9,11 @@ To find extension page you can simply use the following format on the browsers a
     <browser>://extensions/
 ```
 
-Example :
+>Example :
 <img src="Data/Extensions.png">
+
+>To find if a extension is safe or not always check the reviews before installing it
+<img src="Data/review.png">
+
+>For any installed extensions it is always necessary to check the permission given to the extension
+<img src="Data/Permissions.png">
